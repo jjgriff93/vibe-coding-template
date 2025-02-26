@@ -12,6 +12,7 @@ Use the following format to generate your proposal:
 ## 2. Functional Specifications
 -Break down the user's prompt into a series of functional specifications.
 -Extremely high level
+-Number these 2.1, 2.2, 2.3, etc.
 ## 3. Technical Specifications
 -Architecture for app at a high level, including language, frameworks, and platforms
 ## 4. MVP Scope
