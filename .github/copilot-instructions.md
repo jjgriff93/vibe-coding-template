@@ -33,5 +33,4 @@ Always follow the rules when planning, writing code, running code, or writing te
 
 ### Tests
 -Generate user interface tests for any UI changes
--Generate unit tests for any business logic changes
 -Ensure tests can be run from a GitHub Actions CI/CD pipeline
