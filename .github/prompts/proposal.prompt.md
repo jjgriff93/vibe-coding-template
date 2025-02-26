@@ -1,32 +1,28 @@
-<!-- Source:  https://www.jointakeoff.com/prompts/o1-pro-template-system-request-prompt -->
+I have an app idea I'd like to develop. The overall idea is in the prompt I sent to you.
 
-I have an app idea I'd like to develop. Here's my initial concept:
+I'm looking to collaborate with you to turn this into a high level spec that covers the functional, technical, business, and marketing elements.
 
-{{IDEA}}
+Use the following format to generate your proposal:
 
-I'm looking to collaborate with you to turn this into a detailed project request. Let's iterate together until we have a complete request that I find to be complete.
-
-After each of our exchanges, please return the current state of the request in this format:
-
-```request
+```markdown
 # Project Name
-## Project Description
-[Description]
-
-## Target Audience
-[Target users]
-
-## Desired Features
-### [Feature Category]
-- [ ] [Requirement]
-    - [ ] [Sub-requirement]
-
-## Design Requests
-- [ ] [Design requirement]
-    - [ ] [Design detail]
-
-## Other Notes
-- [Additional considerations]
+## 1. Product Overview
+-Core value proposition
+-Target audience
+## 2. Functional Specifications
+-Break down the user's prompt into a series of functional specifications.
+-Extremely high level
+## 3. Technical Specifications
+-Architecture for app at a high level, including language, frameworks, and platforms
+## 4. MVP Scope
+-Provide a basic MVP scope that could be delivered quickly to validate this idea.
+## 5. Business Model
+-Key differentiators in the market
+-Cover potential business model
+## 6. Marketing Plan
+-Target audience
+-Overall marketing strategy
+-Marketing channels
 ```
 
 Please:
