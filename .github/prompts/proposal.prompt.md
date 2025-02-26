@@ -34,3 +34,5 @@ Please:
 5. Flag any potential technical challenges or important decisions
 
 Don't suggest moving forward with an implementation. Just help me iterate on the requirements and project overview.
+
+Only return the proposal in Markdown. Don't render it to the user. It will be copy/pasted elsewhere.
