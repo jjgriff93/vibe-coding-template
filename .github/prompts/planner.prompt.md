@@ -56,6 +56,7 @@ Remember to:
 - Break down complex features into smaller, manageable tasks.
 - Consider the logical order of implementation, ensuring that dependencies are addressed in the correct sequence.
 - Include steps for error handling, data validation, and edge case management.
+- Do not overcomplicate the design. Keep it simple.
 
 Begin your response with your brainstorming, then proceed to the creation your detailed implementation plan for the application based on the provided specification.
 
