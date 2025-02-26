@@ -37,5 +37,3 @@ Please:
 5. Flag any potential technical challenges or important decisions
 
 We'll continue iterating and refining the request until I indicate it's complete and ready.
-
-Once I tell you it's ready, write this spec to project/proposal.md.
