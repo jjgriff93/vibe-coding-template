@@ -12,7 +12,6 @@ Always follow the rules when planning, writing code, running code, or writing te
 -If you create a new file, update the .github/custom-instructions.md file to include the file in the file structure, along with a brief description of the file.
 -Stick to the implementation plan provided to you.
 -If you stray away from the implementation plan, update the corresponding document in the /project/plan directory.
--Summarize major changes in a few sentences in changelog.md.
 
 ### Code
 -All code is found in /code
