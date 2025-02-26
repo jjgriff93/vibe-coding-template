@@ -15,6 +15,7 @@ Always follow the rules when planning, writing code, running code, or writing te
 -Summarize major changes in a few sentences in changelog.md.
 
 ### Code
+-All code is found in /code
 -Always refer to documents in /project/ before implementing anything.
 -/project/project-proposal.md
 -Each class should contain a few paragraph description at the top of the file.
