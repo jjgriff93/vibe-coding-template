@@ -16,8 +16,6 @@ The .github/custom-instructions.md file contains instructions.
 
 After reviewing these inputs, your task is to create a comprehensive, detailed plan for implementing the application.
 
-Before creating the final plan, analyze the inputs and plan your approach. Wrap your thought process in <brainstorming> tags.
-
 Break down the development process into small, manageable steps that can be executed sequentially by a code generation AI.
 
 Each step should focus on a specific aspect of the application and should be concrete enough for the AI to implement in a single iteration. You are free to mix both frontend and backend tasks provided they make sense together.
@@ -47,11 +45,12 @@ Present your plan using the following markdown-based format. This format is spec
 After presenting your plan, provide a brief summary of the overall approach and any key considerations for the implementation process.
 
 Remember to:
+- Do not overcomplicate the design. Keep it simple.
+- Do not over-architect the app by making everything small thing it's own class. Keep it simple.
 - Ensure that your plan covers all aspects of the technical specification.
 - Break down complex features into smaller, manageable tasks.
 - Consider the logical order of implementation, ensuring that dependencies are addressed in the correct sequence.
 - Include steps for error handling, data validation, and edge case management.
-- Do not overcomplicate the design. Keep it simple.
 
 Begin your response with your brainstorming, then proceed to the creation your detailed implementation plan for the application based on the provided specification. Output your entire implementation plan ALWAYS as Markdown.
 
