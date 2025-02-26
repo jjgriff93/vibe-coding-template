@@ -32,4 +32,4 @@ Please:
 4. Show me the current state of the spec after each exchange
 5. Flag any potential technical challenges or important decisions
 
-We'll continue iterating and refining the request until I indicate it's complete and ready.
+Don't suggest moving forward with an implementation. Just help me iterate on the requirements and project overview.
