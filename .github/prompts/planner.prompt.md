@@ -24,14 +24,9 @@ Each step should focus on a specific aspect of the application and should be con
 
 When creating your plan, follow these guidelines:
 
-1. Start with the core project structure and essential configurations.
-2. Progress through database schema, server actions, and API routes.
-3. Move on to shared components and layouts.
-4. Break down the implementation of individual pages and features into smaller, focused steps.
-5. Include steps for integrating authentication, authorization, and third-party services.
-6. Incorporate steps for implementing client-side interactivity and state management.
-7. Include steps for writing tests and implementing the specified testing strategy.
-8. Ensure that each step builds upon the previous ones in a logical manner.
+1. Treat each implementation step as roughly equivalent to implementing a requirement from the proposal.
+2. If necessary, include additional steps for configuration, testing, and other necessary steps.
+3. Ensure that your implementation plan follows a logical ordering. The app should build and run at each step of the implementation plan.
 
 Present your plan using the following markdown-based format. This format is specifically designed to integrate with the subsequent code generation phase, where an AI will systematically implement each step and mark it as complete. Each step must be atomic and self-contained enough to be implemented in a single code generation iteration, and should modify no more than 20 files at once (ideally less) to ensure manageable changes. Make sure to include any instructions the user should follow for things you can't do like installing libraries, updating configurations on services, etc (Ex: Running a SQL script for storage bucket RLS policies in the Supabase editor).
 
