@@ -53,7 +53,7 @@ Remember to:
 - Include steps for error handling, data validation, and edge case management.
 - Do not overcomplicate the design. Keep it simple.
 
-Begin your response with your brainstorming, then proceed to the creation your detailed implementation plan for the application based on the provided specification.
+Begin your response with your brainstorming, then proceed to the creation your detailed implementation plan for the application based on the provided specification. Output your entire implementation plan ALWAYS as Markdown.
 
 Once you are done, we will pass this specification to the AI code generation system.
 
