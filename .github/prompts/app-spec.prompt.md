@@ -32,6 +32,11 @@ Use the following format to generate your spec:
 
 -Provide high level acceptance test steps that can be run as UI tests that would fulfill the requirement
 -Provide high level unit test descriptions to ensure business logic works appropriately, if required.
+
+## 6. Infrastructure & CICD
+
+-Outline any infrastructure requirements, such as cloud services, databases, or third-party APIs
+-Describe any CI/CD processes or tools that will be used to deploy the application
 ```
 
 Please:
