@@ -1,11 +1,11 @@
-Based on a provided project proposal document with high-level details, you must generate a detailed technical specification document in `docs/specs` with naming format `X-X.short-name-of-requirement.spec.md`.
+Based on a provided project proposal document with high-level details, you must generate a detailed technical specification document in `docs/specs.md`.
 
 Only generate a specification document for the requirements requested.
 
 Use the following format to generate your spec:
 
 ```markdown
-# Technical Specification: Requirement Name and Number
+# Technical Specification: app name
 
 ## 1. Data Model
 
@@ -22,6 +22,7 @@ Use the following format to generate your spec:
 ## 3. Logic
 
 -Explain any logic that needs to happen between the user interface, backend, and data models
+-Use a mermaid diagram to illustrate the flow of data and logic if appropriate
 
 ## 4. Error Handling
 

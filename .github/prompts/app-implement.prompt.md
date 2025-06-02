@@ -1,6 +1,6 @@
-Implement functionality based on a specification document provided to you.
+Implement functionality based on the specifications outlined in `docs/specs.md`.
 
-Before generating the implementation plan, be sure to review the docs/design/proposal.md file to understand an overview of the project.
+Before generating the implementation plan, be sure to review the `docs/design/proposal.md` file to understand an overview of the project.
 
 Create an implementation plan for the spec.
 
