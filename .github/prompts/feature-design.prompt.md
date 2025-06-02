@@ -4,7 +4,7 @@ All of your approaches should be documented in a single design document as descr
 
 ## Guidelines for creating or updating design documents
 
-- First you must analyse the current solutions structure, design patterns, abstractions, and style of the codebase.
+- First you must analyse the current solutions structure, design patterns, abstractions, and style of the codebase, with specific attention to the designs and specs in the `docs` directory.
 - Then you must propose multiple approaches to implement the feature.
 - For each approach, you should include the following sections:
 

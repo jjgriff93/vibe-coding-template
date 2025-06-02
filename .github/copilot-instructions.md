@@ -1,6 +1,6 @@
 # Project Structure
 
--/.github - Files for personalizing a user's GitHub Copilot experience
+-/.github - Files for personalising a user's GitHub Copilot experience
 -/src - Source code for the project
 -/docs - Documentation, including project design and implementation
 
@@ -23,7 +23,7 @@
 
 ## Domain Knowledge
 
-Use files in the `docs/domain_knowledge` as a source of truth when it comes to domain knowledge. These files will give you the context in which the current solution operates under. This folder will contain information like entity relationships, workflows and ubiquitous language. As the understanding of the domain grows, take the opportunity to update these files as required as well.
+Use files in the `docs/domain.md` as a source of truth when it comes to domain knowledge. These files will give you the context in which the current solution operates under. This folder will contain information like entity relationships, workflows and ubiquitous language. As the understanding of the domain grows, take the opportunity to update these files as required as well.
 
 ## Accessibility
 
